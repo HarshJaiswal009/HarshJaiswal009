@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Jaiswal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently Studing computer science and engineering [Chat app](https://github.com/HarshJaiswal009/Chat-app.git)
+- 🔭 I’m currently Studing computer science and engineering </br> And working on [Chat app](https://github.com/HarshJaiswal009/Chat-app.git)
 
 - 🌱 I’m currently learning **node Js, Mongo Db and some other backend Languages**
 
